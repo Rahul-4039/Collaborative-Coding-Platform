@@ -1,8 +1,8 @@
-💻 Collaborative Coding Platform
+# 💻 Collaborative Coding Platform
 A real-time collaborative code editor that supports HTML, CSS, and JavaScript (You can add more languages). It allows multiple users to join the same room, write and preview code together live, communicate through voice chat, and also gives suggestions and show errors if any.
 
 
-🚀 Features
+## 🚀 Features
 🔄 Live Code Collaboration – Real-time synchronization of HTML, CSS, and JavaScript code across multiple users.
 
 🎤 Voice Chat – Peer-to-peer audio communication using WebRTC (PeerJS).
@@ -18,15 +18,13 @@ A real-time collaborative code editor that supports HTML, CSS, and JavaScript (Y
 📡 Socket.IO Integration – WebSocket-based communication using Socket.IO.
 
 
-🛠️ Tech Stack
-Frontend: React.js, Tailwind CSS, TypeScript
-
-Backend: Node.js, Express.js, Socket.IO
-
-Voice Chat: PeerJS (WebRTC)
+## 🛠️ Tech Stack
+1. Frontend: React.js, Tailwind CSS, TypeScript
+2. Backend: Node.js, Express.js, Socket.IO
+3. Voice Chat: PeerJS (WebRTC)
 
 
-📦 Installation (For Local Development)
+## 📦 Installation (For Local Development)
 1. Clone the Repository
 2. Install Frontend and Backend Dependencies : 'npm install'
 3. Run the Backend Server: 'npm start'
