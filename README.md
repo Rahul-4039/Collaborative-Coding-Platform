@@ -1,5 +1,5 @@
 💻 Collaborative Coding Platform
-A real-time collaborative code editor that supports HTML, CSS, and JavaScript (You can add more languages). It allows multiple users to join the same room, write and preview code together live, communicate through voice chat, and also gives suggestions and errors if any.
+A real-time collaborative code editor that supports HTML, CSS, and JavaScript (You can add more languages). It allows multiple users to join the same room, write and preview code together live, communicate through voice chat, and also gives suggestions and show errors if any.
 
 
 🚀 Features
